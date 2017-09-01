@@ -15,7 +15,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Colors -->
+    <!-- Primary colors -->
     <string name="dark">Dark</string>
     <string name="black">Black</string>
+
+    <!-- Accent colors -->
+    <string name="pixel">Default (Pixel)</string>
+    <string name="teal">Teal</string>
+
 </resources>
