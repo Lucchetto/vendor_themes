@@ -22,5 +22,12 @@
     <!-- Accent colors -->
     <string name="pixel">Default (Pixel)</string>
     <string name="teal">Teal</string>
+    <string name="yellow">Yellow</string>
+    <string name="sky_blue">Sky blue</string>
+    <string name="red">Red</string>
+    <string name="purple">Purple</string>
+    <string name="pink">Pink</string>
+    <string name="indigo">Indigo</string>
+    <string name="deep_purple">Deep purple</string>
 
 </resources>
