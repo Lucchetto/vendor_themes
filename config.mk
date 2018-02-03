@@ -8,3 +8,15 @@ PRODUCT_PACKAGES += \
     DuiBlackTheme \
     GBoardDarkTheme \
     GBoardBlackTheme
+
+# Accent themes
+PRODUCT_PACKAGES += \
+    PixelTheme \
+    DeepPurpleTheme \
+    IndigoTheme \
+    PinkTheme \
+    PurpleTheme \
+    RedTheme \
+    SkyBlueTheme \
+    YellowTheme \
+    TealTheme
