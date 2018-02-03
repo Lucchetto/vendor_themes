@@ -20,3 +20,6 @@ PRODUCT_PACKAGES += \
     SkyBlueTheme \
     YellowTheme \
     TealTheme
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
