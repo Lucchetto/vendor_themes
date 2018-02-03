@@ -29,5 +29,11 @@
     <string name="pink">Pink</string>
     <string name="indigo">Indigo</string>
     <string name="deep_purple">Deep purple</string>
+    <string name="blue_grey">Blue grey</string>
+    <string name="brown">Brown</string>
+    <string name="deep_orange">Deep orange</string>
+    <string name="light_green">Light green</string>
+    <string name="lime">Lime</string>
+    <string name="orange">Orange</string>
 
 </resources>
