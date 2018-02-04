@@ -18,14 +18,12 @@ PRODUCT_PACKAGES += \
     PurpleTheme \
     RedTheme \
     SkyBlueTheme \
-    YellowTheme \
+    AmberTheme \
     TealTheme \
     BlueGreyTheme \
     BrownTheme \
-    DeepOrangeTheme \
-    LightGreenTheme \
-    LimeTheme \
-    OrangeTheme
+    OrangeTheme \
+    LightGreenTheme
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.boot.vendor.overlay.theme=com.google.android.theme.pixel
