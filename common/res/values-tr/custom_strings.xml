@@ -19,10 +19,16 @@
   <string name="dark">Koyu</string>
   <string name="black">Siyah</string>
   <!-- Accent colors -->
+  <string name="pixel">Varsayılan (Pixel)</string>
   <string name="teal">Yeşilimsi mavi</string>
-  <string name="yellow">Sarı</string>
+  <string name="sky_blue">Gök Mavisi</string>
   <string name="red">Kırmızı</string>
   <string name="purple">Mor</string>
   <string name="pink">Pembe</string>
   <string name="indigo">İndigo</string>
+  <string name="deep_purple">Koyu Mor</string>
+  <string name="blue_grey">Mavi Gri</string>
+  <string name="brown">Kahverengi</string>
+  <string name="light_green">Açık Yeşil</string>
+  <string name="orange">Turuncu</string>
 </resources>

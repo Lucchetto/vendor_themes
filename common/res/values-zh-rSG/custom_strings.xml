@@ -21,7 +21,6 @@
   <!-- Accent colors -->
   <string name="pixel">預設 (Pixel)</string>
   <string name="teal">藍綠色</string>
-  <string name="yellow">黃色</string>
   <string name="sky_blue">天空藍</string>
   <string name="red">紅色</string>
   <string name="purple">紫色</string>
@@ -30,8 +29,6 @@
   <string name="deep_purple">深紫色</string>
   <string name="blue_grey">藍灰色</string>
   <string name="brown">棕色</string>
-  <string name="deep_orange">深橘色</string>
   <string name="light_green">淺綠色</string>
-  <string name="lime">青檸綠</string>
   <string name="orange">橘色</string>
 </resources>

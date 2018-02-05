@@ -19,10 +19,16 @@
   <string name="dark">Tmavá</string>
   <string name="black">Černá</string>
   <!-- Accent colors -->
+  <string name="pixel">Výchozí (Pixel)</string>
   <string name="teal">Modrozelená</string>
-  <string name="yellow">Žlutá</string>
+  <string name="sky_blue">Nebeská modř</string>
   <string name="red">Červená</string>
   <string name="purple">Fialová</string>
   <string name="pink">Růžová</string>
   <string name="indigo">Indigo</string>
+  <string name="deep_purple">Tmavě fialová</string>
+  <string name="blue_grey">Modro šedá</string>
+  <string name="brown">Hnědá</string>
+  <string name="light_green">Světle zelená</string>
+  <string name="orange">Oranžová</string>
 </resources>

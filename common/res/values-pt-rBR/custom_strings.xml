@@ -21,7 +21,7 @@
   <!-- Accent colors -->
   <string name="pixel">Padrão (Pixel)</string>
   <string name="teal">Azul-petróleo</string>
-  <string name="yellow">Amarelo</string>
+  <string name="amber">Âmbar</string>
   <string name="sky_blue">Azul-celeste</string>
   <string name="red">Vermelho</string>
   <string name="purple">Roxo</string>
@@ -30,8 +30,6 @@
   <string name="deep_purple">Roxo escuro</string>
   <string name="blue_grey">Cinza azulado</string>
   <string name="brown">Marrom</string>
-  <string name="deep_orange">Laranja escuro</string>
   <string name="light_green">Verde claro</string>
-  <string name="lime">Verde-limão</string>
   <string name="orange">Laranja</string>
 </resources>

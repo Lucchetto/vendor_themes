@@ -19,10 +19,16 @@
   <string name="dark">暗色</string>
   <string name="black">黑色</string>
   <!-- Accent colors -->
+  <string name="pixel">默认（Pixel）</string>
   <string name="teal">鸭青色</string>
-  <string name="yellow">黄色</string>
+  <string name="sky_blue">天蓝色</string>
   <string name="red">红色</string>
   <string name="purple">紫色</string>
   <string name="pink">粉红色</string>
   <string name="indigo">靛蓝色</string>
+  <string name="deep_purple">深紫色</string>
+  <string name="blue_grey">蓝灰色</string>
+  <string name="brown">棕色</string>
+  <string name="light_green">亮绿色</string>
+  <string name="orange">橙色</string>
 </resources>

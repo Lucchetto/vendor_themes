@@ -19,10 +19,16 @@
   <string name="dark">Tối</string>
   <string name="black">Đen</string>
   <!-- Accent colors -->
+  <string name="pixel">Mặc định (Điểm ảnh)</string>
   <string name="teal">Lục lam</string>
-  <string name="yellow">Vàng</string>
+  <string name="sky_blue">Xanh da trời</string>
   <string name="red">Đỏ</string>
   <string name="purple">Tím</string>
   <string name="pink">Hồng</string>
   <string name="indigo">Chàm</string>
+  <string name="deep_purple">Màu tím đậm</string>
+  <string name="blue_grey">Màu xanh xám</string>
+  <string name="brown">Màu nâu</string>
+  <string name="light_green">Xanh lá nhạt</string>
+  <string name="orange">Màu cam</string>
 </resources>

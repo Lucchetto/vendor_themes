@@ -19,10 +19,16 @@
   <string name="dark">Тёмный</string>
   <string name="black">Чёрный</string>
   <!-- Accent colors -->
+  <string name="pixel">По умолчанию (пиксель)</string>
   <string name="teal">Бирюзовый</string>
-  <string name="yellow">Жёлтый</string>
+  <string name="sky_blue">Голубой</string>
   <string name="red">Красный</string>
   <string name="purple">Фиолетовый</string>
   <string name="pink">Розовый</string>
   <string name="indigo">Индиго</string>
+  <string name="deep_purple">Тёмно-фиолетовый</string>
+  <string name="blue_grey">Серо-синий</string>
+  <string name="brown">Коричневый</string>
+  <string name="light_green">Светло-зелёный</string>
+  <string name="orange">Оранжевый</string>
 </resources>

@@ -16,5 +16,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="dark">تاریک</string>
+  <string name="black">مشکی</string>
   <!-- Accent colors -->
+  <string name="pixel">پیش فرض (پیکسل)</string>
+  <string name="teal">فیروزه ای</string>
+  <string name="sky_blue">آبی آسمانی</string>
+  <string name="red">قرمز</string>
+  <string name="purple">بنفش</string>
+  <string name="pink">صورتی</string>
+  <string name="indigo">نیلی</string>
+  <string name="deep_purple">بنفش تیره</string>
+  <string name="blue_grey">آبی خاکستری</string>
+  <string name="brown">قهوه‌ای</string>
+  <string name="light_green">سبز ملایم</string>
+  <string name="orange">نارنجی</string>
 </resources>

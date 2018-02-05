@@ -19,10 +19,16 @@
   <string name="dark">Gelap</string>
   <string name="black">Hitam</string>
   <!-- Accent colors -->
+  <string name="pixel">Default (Pixel)</string>
   <string name="teal">Hijau Kebiruan</string>
-  <string name="yellow">Kuning</string>
+  <string name="sky_blue">Biru Langit</string>
   <string name="red">Merah</string>
   <string name="purple">Ungu</string>
   <string name="pink">Merah Muda</string>
   <string name="indigo">Indigo</string>
+  <string name="deep_purple">Ungu Gelap</string>
+  <string name="blue_grey">Biru Keabu-abuan</string>
+  <string name="brown">Cokelat</string>
+  <string name="light_green">Hijau Muda</string>
+  <string name="orange">Jingga</string>
 </resources>

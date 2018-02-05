@@ -16,5 +16,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="dark">Σκούρο</string>
+  <string name="black">Μαύρο</string>
   <!-- Accent colors -->
+  <string name="pixel">Προεπιλογή (Pixel)</string>
+  <string name="teal">Πρασινομπλέ</string>
+  <string name="sky_blue">Μπλε Του Ουρανού</string>
+  <string name="red">Κόκκινο</string>
+  <string name="purple">Μωβ</string>
+  <string name="pink">Ροζ</string>
+  <string name="indigo">Λουλακί</string>
+  <string name="deep_purple">Βαθύ μωβ</string>
+  <string name="blue_grey">Μπλέ Γκρι</string>
+  <string name="brown">Καφέ</string>
+  <string name="light_green">Ανοιχτό Πράσινο</string>
+  <string name="orange">Πορτοκαλί</string>
 </resources>
