@@ -21,6 +21,7 @@
   <!-- Accent colors -->
   <string name="pixel">默认（Pixel）</string>
   <string name="teal">鸭青色</string>
+  <string name="amber">琥珀色</string>
   <string name="sky_blue">天蓝色</string>
   <string name="red">红色</string>
   <string name="purple">紫色</string>

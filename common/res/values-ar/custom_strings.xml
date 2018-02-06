@@ -16,5 +16,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="black">أسود</string>
   <!-- Accent colors -->
+  <string name="pixel">الافتراضي (پكسل)</string>
+  <string name="teal">أزرق مائل الى الأخضر</string>
+  <string name="amber">كهرمان</string>
+  <string name="sky_blue">أزرق سماوي</string>
+  <string name="red">أحمر</string>
+  <string name="purple">بنفسجي</string>
+  <string name="pink">وردي</string>
+  <string name="indigo">نيلي</string>
+  <string name="deep_purple">بنفسجي داكن</string>
+  <string name="blue_grey">أزرق رمادي</string>
+  <string name="brown">بُنّي</string>
+  <string name="light_green">أخضر فاتح</string>
+  <string name="orange">برتقالي</string>
 </resources>

@@ -16,5 +16,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="dark">Dunkel</string>
+  <string name="black">Schwarz</string>
   <!-- Accent colors -->
+  <string name="pixel">Standart (Pixel)</string>
+  <string name="teal">Türkis</string>
+  <string name="amber">Bernstein</string>
+  <string name="sky_blue">Himmelblau</string>
+  <string name="red">Rot</string>
+  <string name="purple">Lila</string>
+  <string name="pink">Rosa</string>
+  <string name="indigo">Indigo</string>
+  <string name="deep_purple">Dunkellila</string>
+  <string name="blue_grey">Blaugrau</string>
+  <string name="brown">Braun</string>
+  <string name="light_green">Hellgrün</string>
+  <string name="orange">Orange</string>
 </resources>

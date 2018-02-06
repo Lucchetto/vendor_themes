@@ -21,6 +21,7 @@
   <!-- Accent colors -->
   <string name="pixel">Varsayılan (Pixel)</string>
   <string name="teal">Yeşilimsi mavi</string>
+  <string name="amber">Koyu sarı</string>
   <string name="sky_blue">Gök Mavisi</string>
   <string name="red">Kırmızı</string>
   <string name="purple">Mor</string>

@@ -21,6 +21,7 @@
   <!-- Accent colors -->
   <string name="pixel">Por defecto (Pixel)</string>
   <string name="teal">Verde azulado</string>
+  <string name="amber">Ámbar</string>
   <string name="sky_blue">Azul cielo</string>
   <string name="red">Rojo</string>
   <string name="purple">Púrpura</string>

@@ -16,5 +16,20 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="dark">Tmavá</string>
+  <string name="black">Čierna</string>
   <!-- Accent colors -->
+  <string name="pixel">Výchozá (Pixel)</string>
+  <string name="teal">Modrozelená</string>
+  <string name="amber">Jantárová</string>
+  <string name="sky_blue">Nebesky modrá</string>
+  <string name="red">Červená</string>
+  <string name="purple">Fialová</string>
+  <string name="pink">Ružová</string>
+  <string name="indigo">Indigo</string>
+  <string name="deep_purple">Tmavofialová</string>
+  <string name="blue_grey">Modro-šedá</string>
+  <string name="brown">Hnedá</string>
+  <string name="light_green">Svetlozelená</string>
+  <string name="orange">Oranžová</string>
 </resources>

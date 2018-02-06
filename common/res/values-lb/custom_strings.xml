@@ -16,20 +16,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
-  <string name="dark">Donker</string>
-  <string name="black">Zwart</string>
   <!-- Accent colors -->
-  <string name="pixel">Standaard (Pixel)</string>
-  <string name="teal">Groenblauw</string>
-  <string name="amber">Amber</string>
-  <string name="sky_blue">Hemelsblauw</string>
-  <string name="red">Rood</string>
-  <string name="purple">Paars</string>
-  <string name="pink">Roze</string>
-  <string name="indigo">Indigo</string>
-  <string name="deep_purple">Donkerpaars</string>
-  <string name="blue_grey">Blauwgrijs</string>
-  <string name="brown">Bruin</string>
-  <string name="light_green">Lichtgroen</string>
-  <string name="orange">Oranje</string>
 </resources>

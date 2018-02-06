@@ -21,6 +21,7 @@
   <!-- Accent colors -->
   <string name="pixel">По умолчанию (пиксель)</string>
   <string name="teal">Бирюзовый</string>
+  <string name="amber">Янтарь</string>
   <string name="sky_blue">Голубой</string>
   <string name="red">Красный</string>
   <string name="purple">Фиолетовый</string>

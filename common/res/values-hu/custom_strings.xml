@@ -16,5 +16,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Primary colors -->
+  <string name="dark">Sötét</string>
+  <string name="black">Fekete</string>
   <!-- Accent colors -->
+  <string name="pixel">Alapértelmezett (Pixel)</string>
+  <string name="teal">Türkiz</string>
+  <string name="amber">Borostyán</string>
+  <string name="sky_blue">Égszínkék</string>
+  <string name="red">Vörös</string>
+  <string name="purple">Lila</string>
+  <string name="pink">Rózsaszín</string>
+  <string name="indigo">Indigókék</string>
+  <string name="deep_purple">Mélyvörös</string>
+  <string name="blue_grey">Szürkéskék</string>
+  <string name="brown">Barna</string>
+  <string name="light_green">Világoszöld</string>
 </resources>
